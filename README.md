@@ -1,2 +1,3 @@
-# comfyui_SizeDecisionNode
-This is a plugin that automatically determines whether an image is in landscape or portrait orientation and assigns dimensions accordingly.
+基于原始图像或数值长宽比来输出固定的长宽数值
+正方形数值带有阈值,即长宽之差小于阈值数x则输出正方形数值
+![Uploading 82e9a44281dd7ec781665aa3ceb52bc6.png…]()
